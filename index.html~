@@ -1,17 +1,10 @@
 <html>
 <head>
-<link rel="stylesheet" href="/css/common/xe.min.css" />
-<link rel="stylesheet" href="/css/bootstrap.min.css" />
-<link rel="stylesheet" href="/css/font-awesome.min.css" />
 <link rel="stylesheet" href="/css/simplestrap.min.css" />
-<link rel="stylesheet" href="/css/common/jquery-ui.min.css" />
+<link rel="stylesheet" href="/css/font-awesome.min.css" />
 <!--[if ie 7]><link rel="stylesheet" href="/layouts/simplestrap/css/font-awesome-ie7.min.css?20140126212532" />
 <![endif]--><!--[if ie 7]><link rel="stylesheet" href="/layouts/simplestrap/css/bootstrap-ie7.css?20140126212532" />
 <![endif]-->
-<!--[if lt IE 9]><script src="/js/common/jquery-1.x.min.js"></script>
-<![endif]--><!--[if gte IE 9]><!--><script src="/js/common/jquery.min.js"></script>
-<![endif]--><script src="/js/common/x.min.js"></script>
-<script src="/js/common/xe.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/jquery.cookie.min.js"></script>
 <title>아이워너비더계성 파일 다운로드 - 게임코딩 고딩 - 아레아티엠 깃허브저장소</title>
